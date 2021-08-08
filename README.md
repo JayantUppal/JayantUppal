@@ -15,8 +15,9 @@ Given any two blog posts, it finds similarity among the posts based on examining
 Identify and recognize human activity from a videosource and classify it based on the activity thus performed.
 
 #### [Ethereum Price Prediction](https://github.com/JayantUppal/Infinity/blob/master/Data%20Science/Task-6) 
-Deep Neural Network (RNN + LSTM) model to predict cryptocurrency (Ethereum) closing prices for future dates based on
-historical data.
+Deep Neural Network (RNN + LSTM) model to predict cryptocurrency (Ethereum) closing prices for future dates based on historical data.
+[Blog Post](https://undolearning.com/ethereum-price-prediction-deep-learning/) | 
+[Youtube](https://www.youtube.com/watch?v=QkYd4D4Oa60)
 
 #### [Intrusion Detection System](https://github.com/JayantUppal/Intrusion-Detection-System)
 A predictive model capable of distinguishing between intrusions or attacks, and normal connections. Decision Tree, Gaussian Naive Bayes and XGBoost classifiers are used to make predictions and the final result is obtained through the max voting technique.

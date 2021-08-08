@@ -24,3 +24,6 @@ A predictive model capable of distinguishing between intrusions or attacks, and 
 
 #### [Image Steganography](https://github.com/Honey20/Camouflage)
 Image Steganography using K-Means clustering and DES encryption in C language.
+
+#### [Tensorflow 2.0 Cheatsheet](https://www.linkedin.com/posts/jayant-uppal_tensorflow-20-cheat-sheet-activity-6783846318893879297-brD1)
+This cheat sheet covers TensorFlow 2.0 basics and how to start a machine learning or deep learning project within just a few seconds.

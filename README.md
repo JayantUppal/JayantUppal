@@ -6,7 +6,7 @@ Inquisitive computer science student with a strong foundation in math and progra
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantUppal&theme=prussian&layout=compact)
 
-## Projects
+## Highlights
 
 #### [Blog Post Similarity](https://github.com/JayantUppal/Infinity/tree/master/AlphaAI/Blog-Post-Similarity) 
 Given any two blog posts, it finds similarity among the posts based on examining two text entities and images and determining whether they have the same meaning or not.

@@ -22,7 +22,7 @@ Deep Neural Network (RNN + LSTM) model to predict cryptocurrency (Ethereum) clos
 #### [Intrusion Detection System](https://github.com/JayantUppal/Intrusion-Detection-System)
 A predictive model capable of distinguishing between intrusions or attacks, and normal connections. Decision Tree, Gaussian Naive Bayes and XGBoost classifiers are used to make predictions and the final result is obtained through the max voting technique.
 
-#### [Image Steganography](https://github.com/Honey20/Camouflage)
+#### [Camouflage](https://github.com/Honey20/Camouflage)
 Image Steganography using K-Means clustering and DES encryption in C language.
 
 #### [Tensorflow 2.0 Cheatsheet](https://www.linkedin.com/posts/jayant-uppal_tensorflow-20-cheat-sheet-activity-6783846318893879297-brD1)

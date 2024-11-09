@@ -1,6 +1,6 @@
-### Hi there, I'm Jayant 👋
+### 👋🏽 Hello I'm Jayant Uppal
 
-👋🏽 Hello I'm Jayant Uppal, currently diving deep into the tech world as a Software Development Engineer - 2 at PeopleStrong. I've led the transition of HRM application modules from monolithic architecture to microservices, optimized high-cost queries, and managed ad-hoc teams to ensure timely deliveries.
+Currently diving deep into the tech world as a Software Development Engineer - 2 at PeopleStrong. I've led the transition of HRM application modules from monolithic architecture to microservices, optimized high-cost queries, and managed ad-hoc teams to ensure timely deliveries.
 
 🚀✨ With a strong foundation in Computer Science from the University of Petroleum and Energy Studies and specialized training in Data Science & Machine Learning from Scaler’s DSML Program, I've found my sweet spot in software development and machine learning engineering. 
 

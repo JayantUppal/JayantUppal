@@ -2,7 +2,7 @@
 
 Inquisitive computer science student with a strong foundation in math and programming logic. Seeking to leverage solid development skills with a focus on collaboration, communication, passion, and creativity as a data scientist.
 
-![Jayant's Github Stats](https://github-readme-stats.vercel.app/api?username=JayantUppal&theme=prussian&show_icons=true)
+<> ![Jayant's Github Stats](https://github-readme-stats.vercel.app/api?username=JayantUppal&theme=prussian&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantUppal&theme=prussian&layout=compact)
 

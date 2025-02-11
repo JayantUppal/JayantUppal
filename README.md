@@ -1,6 +1,6 @@
 ### 👋🏽 Hello, I'm Jayant Uppal
 
-I’m currently making strides as a **Software Development Engineer - 2 at PeopleStrong**, where I’ve led key initiatives, including transforming monolithic architectures into microservices, optimizing high-cost queries, and orchestrating team efforts to deliver robust solutions.
+I’m currently making strides as a **Software Development Engineer - 2**, where I’ve led key initiatives, including transforming monolithic architectures into microservices, optimizing high-cost queries, and orchestrating team efforts to deliver robust solutions.
 
 🚀✨ With a foundation in **Computer Science** from UPES and specialized training in **Data Science & Machine Learning** through Scaler’s DSML Program, my passion for building intelligent systems drives my work in **software development and machine learning**. I thrive at the intersection of engineering and machine learning, where code meets data-driven insights.
 
